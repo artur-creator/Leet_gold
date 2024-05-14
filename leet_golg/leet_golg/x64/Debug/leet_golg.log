@@ -1,0 +1,4 @@
+﻿  leet_golg.cpp
+C:\Users\tauru\source\repos\Leet_gold\leet_golg\leet_golg.cpp(30,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\tauru\source\repos\Leet_gold\leet_golg\leet_golg.cpp(30,28): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  leet_golg.vcxproj -> C:\Users\tauru\source\repos\Leet_gold\leet_golg\x64\Debug\leet_golg.exe
